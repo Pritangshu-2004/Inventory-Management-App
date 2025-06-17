@@ -1,6 +1,6 @@
-# 📦 Infoware Inventory Manager — Desktop Application
+# 📦 Inventory Manager — Desktop Application
 
-**Infoware Inventory Manager** is a PySide6-based desktop inventory management application designed for internal use at Infoware India. It allows operators to manage product details, log goods receiving and sales entries, all backed by a local SQLite database. The application includes operator login and is fully functional as a standalone `.exe`.
+**Inventory Manager** is a PySide6-based desktop inventory management application designed for internal use at India. It allows operators to manage product details, log goods receiving and sales entries, all backed by a local SQLite database. The application includes operator login and is fully functional as a standalone `.exe`.
 
 ---
 
