@@ -44,18 +44,18 @@
 ---
 
 ## 📁 Project Structure
-Inventory-Management-App/
-├── assets/ # Folder for uploaded product images
-├── database.py # Database connection and setup
-├── goods_receiving_form.py # Goods Receiving form UI and logic
-├── inventory.db # SQLite database file (generated on first run)
-├── login.py # Operator login form and validation
-├── main.py # Application entry point
-├── models.py # ORM models for Product, Sale, GoodsReceiving
-├── product_master_form.py # Product Master form UI and logic
-├── requirements.txt # Python dependencies
-├── sales_form.py # Sales form UI and logic
-└── README.md # Project documentation (this file)
+- Inventory-Management-App/
+  - assets/ # Folder for uploaded product images
+  - database.py # Database connection and setup
+  - goods_receiving_form.py # Goods Receiving form UI and logic
+  - inventory.db # SQLite database file (generated on first run)
+  - login.py # Operator login form and validation
+  - main.py # Application entry point
+  - models.py # ORM models for Product, Sale, GoodsReceiving
+  - product_master_form.py # Product Master form UI and logic
+  - requirements.txt # Python dependencies
+  - sales_form.py # Sales form UI and logic
+  - README.md # Project documentation (this file)
 
 
 
