@@ -74,5 +74,5 @@ pip install -r requirements.txt
 python main.py
 ```
 ### 3. Login Credentials
-operator1 / pass123
-operator2 / pass456
+  - operator1 / pass123
+  - operator2 / pass456
